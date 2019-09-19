@@ -15,7 +15,6 @@ Intellectual Property Policy
  .image img {max-width: 100%;} 
 </style>
 
-Community Mediation Centre
 ---
 
 <div class="image"><img src="/images/IPPD.jpg/"></div>
